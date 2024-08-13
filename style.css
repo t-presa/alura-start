@@ -99,3 +99,44 @@
     padding: 2em;
     
     }
+    .dispositivo_lista{
+     display: flex;
+     justify-content: center;
+     list-style-type: none;
+     margin: 5em 0;
+    }
+
+    .dispositivos{
+   text-align: center;
+
+    }
+
+    .dispositivos_titulos{
+     font-size: 48px;  
+     color: var(--branco-principal);
+    }
+
+    .lista_item{
+   font-size: 32px;
+   color: var(--branco-principal);
+
+    }
+    .rodape{
+text-align: center;
+margin: 5em  3em;
+
+    }
+
+.rodape_lista{
+display: flex;
+justify-content: center;
+list-style-type: none;
+margin-top: iem;
+
+}
+.rodape_texto{
+margin: 1em 0;
+color: var(--cinza-secundario);
+font-size: 14px;
+
+}
